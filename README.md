@@ -13,8 +13,12 @@ Overall, Netflix's evolution from a DVD rental service to a global streaming gia
 Netflix is known for its work in data science, AI, and ML, particularly for building strong recommendation models and algorithms that understand customer behavior and patterns. Suppose you are working in a data-driven job role, and you have a dataset of more than 9,000 movies. You need to solve the following questions to help the company make informed business decisions accordingly.
 
 Q.1 What is the most frequent genre of movies released on Netflix?
-Q.2 Which has highest votes in vote avg column?
+
+Q.2 Which has the highest votes in the vote avg column?
+
 Q.3 What movie got the highest popularity? What's its genre?
+
 Q.4 What movie got the lowest popularity? What's its genre?
+
 Q.5 Which year has the most filmed movies?
 
